@@ -1,1 +1,1 @@
-This is quiz program here piliticals related questions are asked.
+This is quiz program here politicals related questions are asked.
